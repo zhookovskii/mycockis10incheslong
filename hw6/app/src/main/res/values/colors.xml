@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="day_msg">#A7E6FF</color>
+    <color name="night_msg">#3B68BF</color>
+    <color name="from_user">#449520</color>
+    <color name="day_message_user">#AFEAA2</color>
+    <color name="night_message_user">#368042</color>
+</resources>

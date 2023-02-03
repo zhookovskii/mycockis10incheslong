@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="test_message">тестовое сообщение</string>
+    <string name="test_time">тестовое время</string>
+    <string name="test_user">тестовый пользователь</string>
+    <string name="message_hint">сообщение</string>
+    <string name="send_message">отправить сообщение</string>
+    <string name="attach_file">прикрепить файл</string>
+    <string name="attached_image">прикрепленное изображение</string>
+    <string name="errorServer">сервер не отвечает</string>
+    <string name="errorNotFound">ресурс не найден</string>
+    <string name="errorConflict">при запросе произошел конфликт</string>
+    <string name="errorTooLarge">в меня столько не влезет</string>
+    <string name="requestSuccess">отправлено</string>
+</resources>

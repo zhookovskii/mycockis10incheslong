@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_message</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="UserMessageStyle" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_user_message</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="RoundButton" parent="TextAppearance.AppCompat">
+        <item name="android:background">@drawable/day_round_button</item>
+    </style>
+
+</resources>

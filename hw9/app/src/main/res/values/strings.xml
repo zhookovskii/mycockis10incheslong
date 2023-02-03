@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="test_message">this is a test message</string>
+    <string name="test_user">user</string>
+    <string name="test_time">19 Nov 2022 10:21</string>
+    <string name="message_hint">message</string>
+    <string name="send_message">send</string>
+    <string name="attach_file">file</string>
+    <string name="attached_image">attached_image</string>
+    <string name="errorServer">server is not responding</string>
+    <string name="errorNotFound">resource is not found</string>
+    <string name="errorConflict">request could not succeed due to conflict</string>
+    <string name="errorTooLarge">request body is too large</string>
+    <string name="requestSuccess">sent</string>
+</resources>
