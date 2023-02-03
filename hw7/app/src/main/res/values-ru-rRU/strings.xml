@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="send_picture">Send picture</string>
+    <string name="message">Message</string>
+    <string name="send_message">Send message</string>
+    <string name="todo">TODO</string>
+    <string name="send_image">Send image</string>
+    <string name="serverError">Сервер не отвечает</string>
+    <string name="serverNotFound">Ресурс не найден</string>
+    <string name="serverConflict">Конфликт данных</string>
+    <string name="serverRequestTooLarge">Слишком большой запрос</string>
+    <string name="fragment_list_chat">fragment_list_chat</string>
+    <string name="chat_container">chat_container</string>
+    <string name="chat_item">\@channel</string>
+    <string name="chat_messages_container">chat_messages_container</string>
+    <string name="channel_placeholder">channel</string>
+    <string name="plus_description">add_channel</string>
+    <string name="new_channel_name">название канала</string>
+    <string name="channel_name_requirements">название канала должно заканчиваться на</string>
+    <string name="channel_name_requirements2">цифры или английские буквы, нижний регистр, без пробелов </string>
+    <string name="first_message_hint">первое сообщение</string>
+    <string name="create_new_channel">создать канал</string>
+</resources>

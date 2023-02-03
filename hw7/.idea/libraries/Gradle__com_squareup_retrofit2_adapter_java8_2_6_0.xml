@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.retrofit2:adapter-java8:2.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-java8/2.6.0/1638b5673b4b4414b5ba6815b10ba18e01c079ab/adapter-java8-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-java8/2.6.0/6345e49fcf5578520e0e24d158b794cd4d624cda/adapter-java8-2.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-java8/2.6.0/8a70e364e872e04cb74c6dcabef21044c212f286/adapter-java8-2.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

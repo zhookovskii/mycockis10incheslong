@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="send_picture">Send picture</string>
+    <string name="message">Message</string>
+    <string name="send_message">Send message</string>
+    <string name="todo">TODO</string>
+    <string name="send_image">Send image</string>
+    <string name="serverError">Server is not responding</string>
+    <string name="serverNotFound">Resource is not found</string>
+    <string name="serverConflict">Data conflict occurred</string>
+    <string name="serverRequestTooLarge">Request body is too large</string>
+    <string name="fragment_list_chat">fragment_list_chat</string>
+    <string name="chat_container">chat_container</string>
+    <string name="chat_item">\@channel</string>
+    <string name="chat_messages_container">chat_messages_container</string>
+    <string name="channel_placeholder">channel</string>
+    <string name="plus_description">add_channel</string>
+    <string name="new_channel_name">channel name</string>
+    <string name="channel_name_requirements">channel name should end with</string>
+    <string name="channel_name_requirements2">digits or english letters, lowercase, no spaces</string>
+    <string name="first_message_hint">first message</string>
+    <string name="create_new_channel">create new channel</string>
+</resources>
